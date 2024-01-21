@@ -1,0 +1,13 @@
+[33mcommit 36c0df98a90276e4db1422701c10bcb79f49da5b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: 36109 <sonagrachirag420@gmail.com>
+Date:   Sun Jan 21 16:43:04 2024 +0530
+
+    Revert "first commit"
+    
+    This reverts commit fb660113225fea45f428887378f86646a1c99950.
+
+[33mcommit fb660113225fea45f428887378f86646a1c99950[m
+Author: 36109 <sonagrachirag420@gmail.com>
+Date:   Sun Jan 21 15:17:00 2024 +0530
+
+    first commit
